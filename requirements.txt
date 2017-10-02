@@ -1,0 +1,8 @@
+numpy
+scipy
+Cython
+Bottleneck
+ipython
+scikit-learn
+gensim
+nearpy
